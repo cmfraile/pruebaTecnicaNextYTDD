@@ -4,6 +4,8 @@ Arrancar servidor de pruebas :
 
 ``` npm run dev ``` y [http://localhost:3000](http://localhost:3000)
 
+#
+
 En esta prueba técnica deberás realizar un SAP, el cual tiene un formulario con un solo input text, y un organizador de términos :
 
 EL INPUT TEXT solo admitira carácteres alfanuméricos, comas y espacios. Cuando con ENTER hagas submit, este deberá tomar todos los términos entre comas (y si no, el que quede solo) y:
