@@ -1,5 +1,9 @@
 ### PRUEBA TÉCNICA
 
+Instala las dependencias:
+
+``` npm install ```
+
 Arrancar servidor de pruebas :
 
 ``` npm run dev ``` y [http://localhost:3000](http://localhost:3000)
