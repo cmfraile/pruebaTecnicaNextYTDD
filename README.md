@@ -25,11 +25,11 @@ LA LISTA DE TÉRMINOS será un componente que ofrezca todos los términos ordena
 - La única prueba que se fracasa es aquella en la que no se aprende. Confía en todo el transcurso de la prueba, pero mas aún en tus capacidades.
 
 Firme su prueba técnica añadiendo su nombre donde se indica en el layout :
-```bash src/app/layout.tsx```
+```src/app/layout.tsx```
 
 Resultado :
-<img src="./public/ejemplo.gif" width="300" height="300" />
+<br>
+<img src="./public/ejemplo.gif" width="700"/>
 
 
 ### Escriba aquí debajo cuanto necesite :
-# pruebaTecnicaNextYTDD
